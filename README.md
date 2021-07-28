@@ -1,3 +1,5 @@
+# Wasavi Privacy Policy
+
 **The World’s 2nd Greatest Privacy Policy – A 13 Feb, 2020 Update**
 
 **Short version:**
