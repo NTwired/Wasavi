@@ -1,5 +1,5 @@
-**The World’s 2nd Greatest Privacy Policy – A 13 Feb, 2020 Update
-**
+**The World’s 2nd Greatest Privacy Policy – A 13 Feb, 2020 Update**
+
 **Short version:**
 WE DO NOT STORE OR COLLECT ANY DATA OR MESSAGES YOU SEND TO YOUR CONTACTS AND CRM.
 With Wasavi, what happens on your device stays on your device.
@@ -7,8 +7,8 @@ Whenever you want to send your data to your CRM like Salesforce or Google Sheets
  
 **Full Version**
 
-Thank you for choosing to be part of our community at Rock’n null (in this Policy: “Company“, “we“, “us“, and “our“). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at wasavi@rocknnull.com.
-This Policy (the “Policy”) explains our privacy practices for our Services at www.rocknnull.com and any related domain names as well as through our “Wasavi” mobile application (collectively – the “Service” or the “Services”). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information.
+Thank you for choosing to be part of our community at Rock’n null (in this Policy: “Company“, “we“, “us“, and “our“). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at wasavi.me@gmail.com.
+This Policy (the “Policy”) explains our privacy practices for our Services at Wasavi and any related domain names as well as through our “Wasavi” mobile application (collectively – the “Service” or the “Services”). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information.
 This Policy is incorporated to the Service’s Terms of Use (the “Terms”) and constitutes an integral part of them.
  
 You are not legally obligated to provide us Personal Data and may do so at your own free will. If you do not agree to provide us with such data or have it processed by us or any of our service providers, please contact us or not enter our Sites or use our Services.
@@ -81,9 +81,9 @@ Generally, as long as you are a user of the Service, we do not delete informatio
 Please note that we will retain and disclose information when we deem it necessary to satisfy orders issued by courts and government authorities. We will notify you about the disclosure, only if we are explicitly permitted to do so. In any case, we may keep any aggregated or anonymous information for statistical, development, marketing and other purposes, indefinitely.
 
 DPO
-Rock’n null has appointed Zeev Margalit as our Data Protection Officer, for monitoring and advising on Rock’n null’s ongoing Privacy compliance and serving as a point of contact on Privacy matters for data subjects and supervisory authorities. If you have any comments or questions regarding our Privacy Policy, if you have any concerns regarding your Privacy, or if you wish to make a complaint about how your personal data is being processed by us, you can contact support@rocknnull.com or our DPO at wasavi@rocknnull.com.
+Rock’n null has appointed Zeev Margalit as our Data Protection Officer, for monitoring and advising on Rock’n null’s ongoing Privacy compliance and serving as a point of contact on Privacy matters for data subjects and supervisory authorities. If you have any comments or questions regarding our Privacy Policy, if you have any concerns regarding your Privacy, or if you wish to make a complaint about how your personal data is being processed by us, you can contact wasavi.me@gmail.com.
 YOUR RIGHTS
-You have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us at wasavi@rocknnull.com
+You have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us at wasavi.me@gmail.com
 Before allowing you to exercise your right, we will need to verify your identity. We will make the information available to you, subject to any legitimate constraints and pursuant to the applicable law. We may refuse your request, for example, if we are unable to identify you, or if we believe that removal of certain information may jeopardize activities or features of the Service, harm other users, or compromise our legal rights.
 We may provide you additional options to delete your personal information through the settings and preferences features of the Service. You may access your account and edit or amend the personal details that you provided during registration at any time, through your account settings or by updating the information of your social network account that you provided to register with the Service. If you find that the information on your account is not accurate, complete or updated, then you may make all necessary changes to correct it.
 Additionally, we note that we are processing your information in order to fulfill contracts we might have with you, or otherwise to pursue our legitimate business interests listed above.
@@ -92,7 +92,7 @@ Please note that your information will be transferred (mainly through cloud serv
 CHILDREN’S PRIVACY
 We do not allow children under the age of 13 to use the Service. If you are not yet 13 years of age, then you may not use the Service and must not provide any personal details to us.
 We do not intentionally collect personal information about children who are under 13 years of age. If we learn that a child under the age of 13 provided personally identifiable information to us without verifiable parental consent, we will use commercially reasonable efforts to delete such information from our databases.
-We strongly encourage parents to monitor their children’s use of online and mobile applications. We will delete a child’s personally identifiable information if a parent so requests by contacting us at wasavi@rocknnull.com.
+We strongly encourage parents to monitor their children’s use of online and mobile applications. We will delete a child’s personally identifiable information if a parent so requests by contacting us at wasavi.me@gmail.com
  
 SECURITY AND PRIVACY RECOMMENDATIONS
 We ask you to keep your username and password in absolute confidentiality and refrain from disclosing them to others. Make sure that you change your password frequently and at least once every six months.
@@ -104,5 +104,5 @@ We may update this privacy policy from time to time in order to reflect changes 
 We may also amend this Policy to comply with any legal requirements. In these cases, the amendments will become effective as required or ordered and we will send you a notice of such change.
  
 CONTACT US
-We are doing our utmost to comply with this Policy. If you have any questions, concerns or complaints regarding this policy, please refer them to wasavi@rocknnull.com. After receiving your request, we may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint.
+We are doing our utmost to comply with this Policy. If you have any questions, concerns or complaints regarding this policy, please refer them to wasavi.me@gmail.com. After receiving your request, we may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint.
 
