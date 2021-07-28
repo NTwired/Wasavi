@@ -1,10 +1,12 @@
-The World’s 2nd Greatest Privacy Policy – A 13 Feb, 2020 Update
-Short version:
+**The World’s 2nd Greatest Privacy Policy – A 13 Feb, 2020 Update
+**
+**Short version:**
 WE DO NOT STORE OR COLLECT ANY DATA OR MESSAGES YOU SEND TO YOUR CONTACTS AND CRM.
 With Wasavi, what happens on your device stays on your device.
 Whenever you want to send your data to your CRM like Salesforce or Google Sheets, your data only moves when you tell it to – over the secure connections of those services and your device. No middleman is between your communications. If at any time you wish to remove your data you created in Wasavi app, you can do so by uninstalling the app.
  
-Full Version 
+**Full Version**
+
 Thank you for choosing to be part of our community at Rock’n null (in this Policy: “Company“, “we“, “us“, and “our“). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at wasavi@rocknnull.com.
 This Policy (the “Policy”) explains our privacy practices for our Services at www.rocknnull.com and any related domain names as well as through our “Wasavi” mobile application (collectively – the “Service” or the “Services”). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information.
 This Policy is incorporated to the Service’s Terms of Use (the “Terms”) and constitutes an integral part of them.
